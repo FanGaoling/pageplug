@@ -1,4 +1,4 @@
-FROM dokken/ubuntu-20.04
+FROM ubuntu
 #FROM harbor.cloud2go.cn/pageplug/ubuntu-20.04:base
 
 # Define volumes - Service Layer
